@@ -1,0 +1,2530 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+    "section": "World News",
+    "last_updated": "2024-05-06T10:10:30-04:00",
+    "num_results": 39,
+    "results": [
+        {
+            "section": "",
+            "subsection": "",
+            "title": "Middle East Crisis: Israeli Military Warns More Than 100,000 People in Rafah to Evacuate",
+            "abstract": "Israel wants to \u201cmove people out of harm\u2019s way,\u201d a military official said, a sign that it may be inching closer to invading the Gazan city in defiance of international pressure.",
+            "url": "https://www.nytimes.com/live/2024/05/06/world/israel-gaza-war-hamas",
+            "uri": "nyt://promo/7fb31fc2-cbc8-5f18-83de-3749ce2d5943",
+            "byline": "",
+            "item_type": "Promo",
+            "updated_date": "2024-05-06T10:10:30-04:00",
+            "created_date": "2024-05-06T05:49:46-04:00",
+            "published_date": "2024-05-06T05:49:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06mideast-crisis-promo-10am/06mideast-crisis-carousel-hkgp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "-/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06mideast-crisis-promo-10am/06mideast-crisis-carousel-hkgp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "-/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06mideast-crisis-promo-10am/06mideast-crisis-carousel-hkgp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "-/Agence France-Presse \u2014 Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "With Schools in Ruins, Education in Gaza Will Be Hobbled for Years",
+            "abstract": "Most of Gaza\u2019s schools, including all of its universities, have severe damage that makes them unusable, which could harm an entire generation, the United Nations and others say.",
+            "url": "https://www.nytimes.com/2024/05/06/world/middleeast/gaza-schools-damaged-destroyed.html",
+            "uri": "nyt://article/ed8e9fa9-ae83-53b2-82ab-2d0097e3c1e0",
+            "byline": "By Liam Stack and Bilal Shbair",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T08:04:09-04:00",
+            "created_date": "2024-05-06T05:00:54-04:00",
+            "published_date": "2024-05-06T05:00:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Education (K-12)",
+                "Colleges and Universities",
+                "Refugees and Displaced Persons",
+                "Infrastructure (Public Works)"
+            ],
+            "org_facet": [
+                "Al Azhar University",
+                "Hamas",
+                "United Nations"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Gaza Strip"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06gaza-education-01-fjcq/06gaza-education-01-fjcq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinian children last month at a destroyed school in Khan Younis, in the southern Gaza Strip. More than 80 percent of Gaza\u2019s schools have been severely damaged or destroyed by fighting, according to the United Nations.",
+                    "copyright": "Doaa Rouqa/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06gaza-education-01-fjcq/06gaza-education-01-fjcq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinian children last month at a destroyed school in Khan Younis, in the southern Gaza Strip. More than 80 percent of Gaza\u2019s schools have been severely damaged or destroyed by fighting, according to the United Nations.",
+                    "copyright": "Doaa Rouqa/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06gaza-education-01-fjcq/06gaza-education-01-fjcq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinian children last month at a destroyed school in Khan Younis, in the southern Gaza Strip. More than 80 percent of Gaza\u2019s schools have been severely damaged or destroyed by fighting, according to the United Nations.",
+                    "copyright": "Doaa Rouqa/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "In Meeting With Xi, E.U. Leader Takes Tough Line on Ukraine War",
+            "abstract": "Ursula Von der Leyen, the European Commission president, pushed Beijing to help rein in Russia\u2019s war in Ukraine after meeting with the Chinese and French leaders in Paris.",
+            "url": "https://www.nytimes.com/2024/05/06/world/europe/xi-macron-europe-trade-war.html",
+            "uri": "nyt://article/fc82f213-e485-53c0-8afb-f708fa8056b2",
+            "byline": "By Roger Cohen",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T10:08:32-04:00",
+            "created_date": "2024-05-06T10:08:32-04:00",
+            "published_date": "2024-05-06T10:08:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "Politics and Government",
+                "Russian Invasion of Ukraine (2022)",
+                "Nuclear Weapons",
+                "Threats and Threatening Messages",
+                "Factories and Manufacturing",
+                "Electric and Hybrid Vehicles",
+                "Economic Conditions and Trends",
+                "Defense and Military Forces",
+                "International Trade and World Market"
+            ],
+            "org_facet": [
+                "European Union",
+                "European Commission"
+            ],
+            "per_facet": [
+                "Macron, Emmanuel (1977- )",
+                "Putin, Vladimir V",
+                "von der Leyen, Ursula",
+                "Xi Jinping"
+            ],
+            "geo_facet": [
+                "Europe",
+                "France",
+                "Ukraine",
+                "Paris (France)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06France-China-bgvc/06France-China-bgvc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "European Commission President Ursula von der Leyen after a meeting with President Emmanuel Macron of France and President Xi Jinping of China at Elysee Palace.",
+                    "copyright": "Gonzalo Fuentes/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06France-China-bgvc/06France-China-bgvc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "European Commission President Ursula von der Leyen after a meeting with President Emmanuel Macron of France and President Xi Jinping of China at Elysee Palace.",
+                    "copyright": "Gonzalo Fuentes/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06France-China-bgvc/06France-China-bgvc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "European Commission President Ursula von der Leyen after a meeting with President Emmanuel Macron of France and President Xi Jinping of China at Elysee Palace.",
+                    "copyright": "Gonzalo Fuentes/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "Meet the Candidate Challenging Venezuela\u2019s Authoritarian President",
+            "abstract": "Edmundo Gonz\u00e1lez, a former diplomat, is unknown to many Venezuelans. But some experts say that could work in his favor as he runs against President Nicol\u00e1s Maduro in national elections.",
+            "url": "https://www.nytimes.com/2024/05/06/world/americas/edmundo-gonzalez-venezuela-elections.html",
+            "uri": "nyt://article/09fe1a44-1ce0-5f4c-a195-a9701ed95b13",
+            "byline": "By Genevieve Glatsky, Isayen Herrera and Adriana Loureiro Fernandez",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T09:22:16-04:00",
+            "created_date": "2024-05-06T05:01:34-04:00",
+            "published_date": "2024-05-06T05:01:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States International Relations",
+                "Elections",
+                "internal-truncator"
+            ],
+            "org_facet": [
+                "Democratic Unity (Venezuela)",
+                "International Crisis Group"
+            ],
+            "per_facet": [
+                "Maduro, Nicolas",
+                "Edmundo Gonzalez"
+            ],
+            "geo_facet": [
+                "Venezuela"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06venezuela-opposition-promo/06venezuela-opposition-top-hjtk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Edmundo Gonz\u00e1lez has emerged as the candidate the government would not seek to block and that the opposition would support.",
+                    "copyright": "Adriana Loureiro Fernandez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06venezuela-opposition-promo/06venezuela-opposition-top-hjtk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Edmundo Gonz\u00e1lez has emerged as the candidate the government would not seek to block and that the opposition would support.",
+                    "copyright": "Adriana Loureiro Fernandez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06venezuela-opposition-promo/06venezuela-opposition-top-hjtk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Edmundo Gonz\u00e1lez has emerged as the candidate the government would not seek to block and that the opposition would support.",
+                    "copyright": "Adriana Loureiro Fernandez for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Russia to Hold Drills on Tactical Nuclear Weapons in New Tensions With West",
+            "abstract": "Russian officials claimed the order was in response to comments from the West about the possibility of more direct Western involvement in the war in Ukraine.",
+            "url": "https://www.nytimes.com/2024/05/06/world/europe/russia-tactical-nuclear-weapons-drills.html",
+            "uri": "nyt://article/4d7c10a0-edf9-5192-a71c-f61c3c12dc4c",
+            "byline": "By Anton Troianovski",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T09:43:56-04:00",
+            "created_date": "2024-05-06T07:07:15-04:00",
+            "published_date": "2024-05-06T07:07:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Nuclear Weapons",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06russia-nukes-kplm/06russia-nukes-kplm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A devastated village on the outskirts of Donetsk, in eastern Ukraine.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06russia-nukes-kplm/06russia-nukes-kplm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A devastated village on the outskirts of Donetsk, in eastern Ukraine.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06russia-nukes-kplm/06russia-nukes-kplm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A devastated village on the outskirts of Donetsk, in eastern Ukraine.",
+                    "copyright": "Tyler Hicks/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "3 Bodies Found in Baja California Are Identified as Missing Tourists\u2019",
+            "abstract": "Mexican officials said the identities of two Australians and an American had been confirmed by relatives. The men went missing during a surfing and camping trip.",
+            "url": "https://www.nytimes.com/2024/05/05/world/americas/bodies-found-baja-california.html",
+            "uri": "nyt://article/8e60b6cf-b514-5dc4-b782-f3898fba9a8e",
+            "byline": "By Emiliano Rodr\u00edguez Mega",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T09:46:16-04:00",
+            "created_date": "2024-05-05T22:20:19-04:00",
+            "published_date": "2024-05-05T22:20:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Murders, Attempted Murders and Homicides",
+                "Missing Persons"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Baja California (Mexico)",
+                "Mexico"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06mexico-kcbj/06mexico-kcbj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue workers at the site where three bodies were found in La Bocana, Baja California, Mexico, on Friday.",
+                    "copyright": "Francisco Javier Cruz/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06mexico-kcbj/06mexico-kcbj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue workers at the site where three bodies were found in La Bocana, Baja California, Mexico, on Friday.",
+                    "copyright": "Francisco Javier Cruz/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06mexico-kcbj/06mexico-kcbj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue workers at the site where three bodies were found in La Bocana, Baja California, Mexico, on Friday.",
+                    "copyright": "Francisco Javier Cruz/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "australia",
+            "title": "Airline Agrees to Pay $79 Million After Selling Tickets for Canceled Flights",
+            "abstract": "Qantas, Australia\u2019s national carrier, apologized and said it would pay a fine and compensation to settle a suit brought by a consumer watchdog.",
+            "url": "https://www.nytimes.com/2024/05/06/world/australia/qantas-fine-canceled-flights-australia.html",
+            "uri": "nyt://article/5fc83e76-d158-5d8d-9669-87b0a57464fb",
+            "byline": "By Jin Yu Young",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T03:02:24-04:00",
+            "created_date": "2024-05-06T02:41:33-04:00",
+            "published_date": "2024-05-06T02:41:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Airlines and Airplanes",
+                "Consumer Protection"
+            ],
+            "org_facet": [
+                "Qantas Airways"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Australia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06oz-qantas-jtqh/06oz-qantas-jtqh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Qantas planes at Melbourne Airport in Australia.",
+                    "copyright": "Abigail Varney for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06oz-qantas-jtqh/06oz-qantas-jtqh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Qantas planes at Melbourne Airport in Australia.",
+                    "copyright": "Abigail Varney for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06oz-qantas-jtqh/06oz-qantas-jtqh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Qantas planes at Melbourne Airport in Australia.",
+                    "copyright": "Abigail Varney for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "What to Know About Xi Jinping\u2019s Trip to Europe",
+            "abstract": "The Chinese president this week will be visiting France, Serbia and Hungary. His trip comes at a time of tensions with many European countries over trade and accusations of Chinese espionage.",
+            "url": "https://www.nytimes.com/2024/05/06/world/europe/xi-jinping-europe-china.html",
+            "uri": "nyt://article/e636a5a3-984f-52c9-8bf1-c6034433ac2b",
+            "byline": "By Emma Bubola",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T08:58:31-04:00",
+            "created_date": "2024-05-06T05:44:32-04:00",
+            "published_date": "2024-05-06T05:44:32-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "United States International Relations",
+                "Politics and Government",
+                "Coronavirus (2019-nCoV)",
+                "Espionage and Intelligence Services"
+            ],
+            "org_facet": [
+                "European Union"
+            ],
+            "per_facet": [
+                "Macron, Emmanuel (1977- )"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06xi-europe-wtk-01-fpzc/06xi-europe-wtk-01-fpzc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The plane carrying President Xi Jinping of China arriving on Sunday at Orly airport, south of Paris.",
+                    "copyright": "Pool photo by Michel Euler"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06xi-europe-wtk-01-fpzc/06xi-europe-wtk-01-fpzc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The plane carrying President Xi Jinping of China arriving on Sunday at Orly airport, south of Paris.",
+                    "copyright": "Pool photo by Michel Euler"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06xi-europe-wtk-01-fpzc/06xi-europe-wtk-01-fpzc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The plane carrying President Xi Jinping of China arriving on Sunday at Orly airport, south of Paris.",
+                    "copyright": "Pool photo by Michel Euler"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Xi Visits Europe, Seeking Strategic Opportunity",
+            "abstract": "The Chinese leader has carefully chosen three countries \u2014 France, Serbia and Hungary \u2014 that to varying degrees embrace Beijing\u2019s push for a new global order.",
+            "url": "https://www.nytimes.com/2024/05/05/world/europe/xi-visits-europe-strategic-opportunity.html",
+            "uri": "nyt://article/8d7b34a3-3907-57bb-a005-4dd312a2234e",
+            "byline": "By Roger Cohen and Chris Buckley",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T09:40:15-04:00",
+            "created_date": "2024-05-05T00:01:26-04:00",
+            "published_date": "2024-05-05T00:01:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "International Relations",
+                "United States International Relations",
+                "Politics and Government",
+                "Russian Invasion of Ukraine (2022)",
+                "International Trade and World Market"
+            ],
+            "org_facet": [
+                "European Union"
+            ],
+            "per_facet": [
+                "Xi Jinping",
+                "Macron, Emmanuel (1977- )",
+                "Putin, Vladimir V",
+                "von der Leyen, Ursula"
+            ],
+            "geo_facet": [
+                "China",
+                "France",
+                "Serbia",
+                "Hungary"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05europe-china-zbmc/05europe-china-zbmc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Xi Jinping of China and his wife, Peng Liyuan, on Sunday at Orly airport, south of Paris. Mr. Xi\u2019s visit to Europe is testing the continent\u2019s delicate balancing act between China and the United States.",
+                    "copyright": "Pool photo by Stephane De Sakutin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05europe-china-zbmc/05europe-china-zbmc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Xi Jinping of China and his wife, Peng Liyuan, on Sunday at Orly airport, south of Paris. Mr. Xi\u2019s visit to Europe is testing the continent\u2019s delicate balancing act between China and the United States.",
+                    "copyright": "Pool photo by Stephane De Sakutin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05europe-china-zbmc/05europe-china-zbmc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Xi Jinping of China and his wife, Peng Liyuan, on Sunday at Orly airport, south of Paris. Mr. Xi\u2019s visit to Europe is testing the continent\u2019s delicate balancing act between China and the United States.",
+                    "copyright": "Pool photo by Stephane De Sakutin"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "DNA Tests and Stranded Bodies: Ukraine\u2019s Struggle to Name Its Dead",
+            "abstract": "Families of some soldiers say they have spent months trying to get official confirmation of their loved ones\u2019 deaths, adding to their anguish.",
+            "url": "https://www.nytimes.com/2024/05/05/world/europe/ukraine-soldiers-mia-russia.html",
+            "uri": "nyt://article/453db632-7f48-5f0c-b1ca-ad69a820436a",
+            "byline": "By Maria Varenikova",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T09:53:30-04:00",
+            "created_date": "2024-05-05T05:00:49-04:00",
+            "published_date": "2024-05-05T05:00:49-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Missing in Action",
+                "Defense and Military Forces",
+                "Russian Invasion of Ukraine (2022)",
+                "DNA (Deoxyribonucleic Acid)",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Zelensky, Volodymyr"
+            ],
+            "geo_facet": [
+                "Ukraine",
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04ukraine-MIA-01-kfgj/04ukraine-MIA-01-kfgj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers at a morgue in Ukraine\u2019s Donetsk region in March. Identifying the dead can sometimes take several months.",
+                    "copyright": "Nicole Tung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04ukraine-MIA-01-kfgj/04ukraine-MIA-01-kfgj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers at a morgue in Ukraine\u2019s Donetsk region in March. Identifying the dead can sometimes take several months.",
+                    "copyright": "Nicole Tung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04ukraine-MIA-01-kfgj/04ukraine-MIA-01-kfgj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers at a morgue in Ukraine\u2019s Donetsk region in March. Identifying the dead can sometimes take several months.",
+                    "copyright": "Nicole Tung for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "Front-Runner, Jos\u00e9 Ra\u00fal Mulino, Is Elected President of Panama",
+            "abstract": "Mr. Mulino, a former security minister, gained support in the chaotic campaign from an ex-president whose bid had been disqualified.",
+            "url": "https://www.nytimes.com/2024/05/05/world/americas/panama-presidential-election-mulino.html",
+            "uri": "nyt://article/629b1d5e-13df-59fb-8414-6a9cb6f025a2",
+            "byline": "By Leila Miller",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T09:21:30-04:00",
+            "created_date": "2024-05-05T05:02:18-04:00",
+            "published_date": "2024-05-05T05:02:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Elections",
+                "Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Martinelli, Ricardo"
+            ],
+            "geo_facet": [
+                "Panama"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/06/05/multimedia/05panama-election-cfzg/05panama-election-cfzg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Panama\u2019s president-elect, Jos\u00e9 Ra\u00fal Mulino, greeting supporters in Panama City on Sunday.",
+                    "copyright": "Martin Bernetti/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/06/05/multimedia/05panama-election-cfzg/05panama-election-cfzg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Panama\u2019s president-elect, Jos\u00e9 Ra\u00fal Mulino, greeting supporters in Panama City on Sunday.",
+                    "copyright": "Martin Bernetti/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/06/05/multimedia/05panama-election-cfzg/05panama-election-cfzg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Panama\u2019s president-elect, Jos\u00e9 Ra\u00fal Mulino, greeting supporters in Panama City on Sunday.",
+                    "copyright": "Martin Bernetti/Agence France-Presse \u2014 Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "His Skull Was Taken From Congo as a War Trophy. Will Belgium Finally Return It?",
+            "abstract": "For decades, Belgium failed to return the remains of hundreds of people taken by force from former colonies. A draft law could change that, but critics say it is not going far enough.",
+            "url": "https://www.nytimes.com/2024/05/05/world/europe/human-skull-africa-belgium.html",
+            "uri": "nyt://article/1fe7f248-a1d0-56d6-bf3f-df0c4f0c39a5",
+            "byline": "By Monika Pronczuk and Koba Ryckewaert",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T09:25:59-04:00",
+            "created_date": "2024-05-05T00:01:13-04:00",
+            "published_date": "2024-05-05T00:01:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Colonization",
+                "Skull (Body Part)",
+                "Compensation for Damages (Law)",
+                "Royal Families",
+                "Law and Legislation",
+                "Museums",
+                "Apologies",
+                "International Relations",
+                "War Crimes, Genocide and Crimes Against Humanity",
+                "Arts and Antiquities Looting"
+            ],
+            "org_facet": [
+                "Belgian Royal Museum for Central Africa"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/30/multimedia/30belgium-humanremains-01-qkcm/30belgium-humanremains-01-qkcm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The skull of a Congolese leader, Lusinga Iwa Ng\u2019ombe, who fought back against Belgian colonial invaders in the late 19th century, ended up in a box at the Institute for Natural Sciences in Brussels, along with over 500 human remains taken from former Belgian colonies.",
+                    "copyright": "Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/30/multimedia/30belgium-humanremains-01-qkcm/30belgium-humanremains-01-qkcm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The skull of a Congolese leader, Lusinga Iwa Ng\u2019ombe, who fought back against Belgian colonial invaders in the late 19th century, ended up in a box at the Institute for Natural Sciences in Brussels, along with over 500 human remains taken from former Belgian colonies.",
+                    "copyright": "Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/30/multimedia/30belgium-humanremains-01-qkcm/30belgium-humanremains-01-qkcm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The skull of a Congolese leader, Lusinga Iwa Ng\u2019ombe, who fought back against Belgian colonial invaders in the late 19th century, ended up in a box at the Institute for Natural Sciences in Brussels, along with over 500 human remains taken from former Belgian colonies.",
+                    "copyright": "Alamy"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Just How Dangerous Is Europe\u2019s Rising Far Right?",
+            "abstract": "Anti-immigration parties with fascist roots \u2014 and an uncertain commitment to democracy \u2014 are now mainstream.",
+            "url": "https://www.nytimes.com/2024/05/05/world/europe/europe-far-right.html",
+            "uri": "nyt://article/a6900170-c842-55e8-81cc-aedcd693c1c0",
+            "byline": "By Roger Cohen",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T17:14:56-04:00",
+            "created_date": "2024-05-05T00:01:13-04:00",
+            "published_date": "2024-05-05T00:01:13-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "Right-Wing Extremism and Alt-Right",
+                "Politics and Government",
+                "Immigration and Emigration",
+                "Muslims and Islam",
+                "Race and Ethnicity",
+                "Discrimination",
+                "internal-truncator"
+            ],
+            "org_facet": [
+                "National Rally (France)",
+                "National Front (France)",
+                "Brothers of Italy (Italian Political Party)",
+                "European Parliament"
+            ],
+            "per_facet": [
+                "Bardella, Jordan (1995- )",
+                "Le Pen, Marine",
+                "Meloni, Giorgia (1977- )"
+            ],
+            "geo_facet": [
+                "Europe",
+                "France",
+                "Italy",
+                "Germany"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/arts/05-idea-topper/05-idea-topper-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Pablo Delcan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/arts/05-idea-topper/05-idea-topper-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Pablo Delcan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/arts/05-idea-topper/05-idea-topper-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Pablo Delcan"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Rishi Sunak\u2019s Dismal Task: Leading U.K. Conservatives to Likely Defeat",
+            "abstract": "After 14 years of Conservative government, Britain\u2019s voters appear hungry for change. And Prime Minister Rishi Sunak seems unable to persuade them otherwise.",
+            "url": "https://www.nytimes.com/2024/05/04/world/europe/uk-rishi-sunak-conservatives-elections.html",
+            "uri": "nyt://article/67c459f2-da15-546c-ac6c-b0c5f638ef11",
+            "byline": "By Mark Landler",
+            "item_type": "Article",
+            "updated_date": "2024-05-04T23:23:33-04:00",
+            "created_date": "2024-05-04T09:31:02-04:00",
+            "published_date": "2024-05-04T09:31:02-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Elections",
+                "Asylum, Right of",
+                "Illegal Immigration"
+            ],
+            "org_facet": [
+                "Conservative Party (Great Britain)",
+                "Labour Party (Great Britain)"
+            ],
+            "per_facet": [
+                "Sunak, Rishi (1980- )"
+            ],
+            "geo_facet": [
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04uk-sunak-kvzb/04uk-sunak-kvzb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Rishi Sunak of Britain, center, at a Downing Street meeting last month to discuss illegal migration. He has invested much of his political capital on immigration.",
+                    "copyright": "Pool photo by Toby Melville"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04uk-sunak-kvzb/04uk-sunak-kvzb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Rishi Sunak of Britain, center, at a Downing Street meeting last month to discuss illegal migration. He has invested much of his political capital on immigration.",
+                    "copyright": "Pool photo by Toby Melville"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04uk-sunak-kvzb/04uk-sunak-kvzb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Rishi Sunak of Britain, center, at a Downing Street meeting last month to discuss illegal migration. He has invested much of his political capital on immigration.",
+                    "copyright": "Pool photo by Toby Melville"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "books",
+            "subsection": "",
+            "title": "Read Your Way Through Montreal",
+            "abstract": "Montreal is a city as appealing for its beauty as for its shadows. Here, the novelist Mona Awad recommends books that are \u201cboth dreamy and uncompromising.\u201d",
+            "url": "https://www.nytimes.com/2024/05/06/books/books-montreal-canada.html",
+            "uri": "nyt://article/0150f781-adde-5b51-a27b-5ee1a516ad11",
+            "byline": "By Mona Awad",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T08:55:40-04:00",
+            "created_date": "2024-05-06T08:55:07-04:00",
+            "published_date": "2024-05-06T08:55:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Books and Literature",
+                "Writing and Writers",
+                "Travel and Vacations",
+                "Content Type: Service",
+                "The Apprenticeship of Duddy Kravitz (Book)",
+                "Barneys Version (Book)",
+                "The Favorite Game (Book)",
+                "The Spice Box of Earth (Book)",
+                "Varieties of Exile (Book)",
+                "The Tin Flute (Book)",
+                "The Fat Woman Next Door Is Pregnant (Book)",
+                "How to Make Love to a Negro Without Getting Tired (Book)",
+                "Our Lady of Mile End (Book)",
+                "Ru (Book)",
+                "The Wagers (Book)",
+                "Glass Houses (Book)",
+                "Deja Dead (Book)",
+                "Bottle Rocket Hearts (Book)",
+                "Lullabies for Little Criminals (Book)",
+                "The Lonely Hearts Hotel (Book)",
+                "Cockroach (Book)",
+                "Bone and Bread (Book)",
+                "The Dishwasher (Book)",
+                "Whore (Book)",
+                "Rouge (Book)",
+                "Bunny (Book)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Mordecai Richler",
+                "Cohen, Leonard",
+                "Gallant, Mavis (1922-2014)",
+                "Gabrielle Roy",
+                "Laferriere, Dany",
+                "Gilbert, Sarah C",
+                "Ly Thanh, Kim Thuy",
+                "Michaels, Sean (1982- )",
+                "Penny, Louise",
+                "Reichs, Kathy",
+                "Christopher DiRaddo",
+                "The Geography of Pluto",
+                "Whittall, Zoe",
+                "Heather ONeill",
+                "Hage, Rawi",
+                "Saleema Nawaz",
+                "Stephane Larue",
+                "Nelly Arcan",
+                "Awad, Mona (Author)",
+                "Michel Tremblay"
+            ],
+            "geo_facet": [
+                "Montreal (Quebec)",
+                "Quebec Province (Canada)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/24/books/review/00LitGuide-Montreal/00LitGuide-Montreal-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Raphaelle Macaron"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/24/books/review/00LitGuide-Montreal/00LitGuide-Montreal-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Raphaelle Macaron"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/24/books/review/00LitGuide-Montreal/00LitGuide-Montreal-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Raphaelle Macaron"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Are Flight Offsets Worth It?",
+            "abstract": "A lot of them don\u2019t work and some might even be harmful. But there are things you can do if you really have to fly.",
+            "url": "https://www.nytimes.com/2024/05/06/climate/nyt-questions-flight-offsets.html",
+            "uri": "nyt://article/925f6b18-36c1-5ec0-a648-bd7acbd7a365",
+            "byline": "By Susan Shain",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T05:02:10-04:00",
+            "created_date": "2024-05-06T05:01:19-04:00",
+            "published_date": "2024-05-06T05:01:19-04:00",
+            "material_type_facet": "",
+            "kicker": "Ask NYT Climate",
+            "des_facet": [
+                "Global Warming",
+                "Carbon Caps and Emissions Trading Programs",
+                "Airlines and Airplanes",
+                "Sustainable Living",
+                "Content Type: Service",
+                "Fuel Emissions (Transportation)",
+                "Greenhouse Gas Emissions",
+                "internal-truncator"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/29/climate/00cli-offsets-illo/00cli-offsets-illo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Naomi Anderson-Subryan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/29/climate/00cli-offsets-illo/00cli-offsets-illo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Naomi Anderson-Subryan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/29/climate/00cli-offsets-illo/00cli-offsets-illo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Naomi Anderson-Subryan"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Netanyahu Asserts Israel\u2019s Right to Fight Its Enemies in Defiant Speech",
+            "abstract": "Prime Minister Benjamin Netanyahu has been steadfast in his goal of destroying Hamas. On Sunday, he defended Israel\u2019s right to defend itself at a Holocaust remembrance event.",
+            "url": "https://www.nytimes.com/2024/05/06/world/middleeast/netanyahu-holocaust-gaza-yad-vashem.html",
+            "uri": "nyt://article/480118da-9481-5a2d-9007-3c7659e5006e",
+            "byline": "By Vivek Shankar",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T10:01:01-04:00",
+            "created_date": "2024-05-06T04:05:48-04:00",
+            "published_date": "2024-05-06T04:05:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Holocaust and the Nazi Era"
+            ],
+            "org_facet": [
+                "Hamas",
+                "Yad Vashem Holocaust Museum"
+            ],
+            "per_facet": [
+                "Netanyahu, Benjamin"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel",
+                "Rafah (Gaza Strip)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06mideast-crisis-netanyahu-speech-tlzh/06mideast-crisis-netanyahu-speech-tlzh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Benjamin Netanyahu of Israel speaking at the Yad Vashem Holocaust Memorial in Jerusalem on Sunday.",
+                    "copyright": "Menahem Kahana/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06mideast-crisis-netanyahu-speech-tlzh/06mideast-crisis-netanyahu-speech-tlzh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Benjamin Netanyahu of Israel speaking at the Yad Vashem Holocaust Memorial in Jerusalem on Sunday.",
+                    "copyright": "Menahem Kahana/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06mideast-crisis-netanyahu-speech-tlzh/06mideast-crisis-netanyahu-speech-tlzh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Benjamin Netanyahu of Israel speaking at the Yad Vashem Holocaust Memorial in Jerusalem on Sunday.",
+                    "copyright": "Menahem Kahana/Agence France-Presse \u2014 Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Monday Briefing",
+            "abstract": "Cease-fire talks stall.",
+            "url": "https://www.nytimes.com/2024/05/06/briefing/ceasefire-talks-xi-jinping-europe.html",
+            "uri": "nyt://article/b1c1c6f4-7191-5126-9b8f-57b92a9a1eca",
+            "byline": "By Natasha Frost",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T00:21:42-04:00",
+            "created_date": "2024-05-06T00:19:33-04:00",
+            "published_date": "2024-05-06T00:19:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06ambriefing-europe-nl-gaza-zplh/06ambriefing-europe-nl-gaza-zplh-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1638,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians at the site of an Israeli strike in Rafah in southern Gaza on Sunday.",
+                    "copyright": "Hatem Khaled/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06ambriefing-europe-nl-gaza-zplh/06ambriefing-europe-nl-gaza-zplh-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians at the site of an Israeli strike in Rafah in southern Gaza on Sunday.",
+                    "copyright": "Hatem Khaled/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06ambriefing-europe-nl-gaza-zplh/06ambriefing-europe-nl-gaza-zplh-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians at the site of an Israeli strike in Rafah in southern Gaza on Sunday.",
+                    "copyright": "Hatem Khaled/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Monday Briefing: Xi Jinping Visits Europe",
+            "abstract": "Also, Israel cracks down on Al Jazeera and Myanmar\u2019s rebels get creative with drones.",
+            "url": "https://www.nytimes.com/2024/05/05/world/asia/xi-jinping-france-israel-jazeera-asia.html",
+            "uri": "nyt://article/f74a6e3b-9b1e-5bc9-9df9-db5c77a91405",
+            "byline": "By Amelia Nierenberg",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T17:00:34-04:00",
+            "created_date": "2024-05-05T17:00:34-04:00",
+            "published_date": "2024-05-05T17:00:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Far East, South and Southeast Asia and Pacific Areas"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06ambriefing-asia-xi-vqcb/06ambriefing-asia-xi-vqcb-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1638,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Gabriel Attal of France welcomed Xi Jinping, China\u2019s leader, yesterday.",
+                    "copyright": "Pool photo by Stephane De Sakutin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06ambriefing-asia-xi-vqcb/06ambriefing-asia-xi-vqcb-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Gabriel Attal of France welcomed Xi Jinping, China\u2019s leader, yesterday.",
+                    "copyright": "Pool photo by Stephane De Sakutin"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/06/multimedia/06ambriefing-asia-xi-vqcb/06ambriefing-asia-xi-vqcb-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Gabriel Attal of France welcomed Xi Jinping, China\u2019s leader, yesterday.",
+                    "copyright": "Pool photo by Stephane De Sakutin"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Cease-Fire Talks Between Israel and Hamas Again at an Impasse",
+            "abstract": "There had been signs the two sides were inching closer to an agreement, but talks in Cairo stalled and a Hamas delegation left the city.",
+            "url": "https://www.nytimes.com/2024/05/05/world/middleeast/cease-fire-talks-israel-hamas.html",
+            "uri": "nyt://article/65e86307-3163-5fef-b2c7-a2896beb7a1d",
+            "byline": "By Adam Rasgon",
+            "item_type": "Article",
+            "updated_date": "2024-05-06T06:49:51-04:00",
+            "created_date": "2024-05-05T16:02:14-04:00",
+            "published_date": "2024-05-05T16:02:14-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Peace Process"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [
+                "Netanyahu, Benjamin"
+            ],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip",
+                "Rafah (Gaza Strip)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05mideast-crisis-talks-snag-2-wfzg/05mideast-crisis-talks-snag-2-wfzg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The failure to strike a deal meant Palestinians in Gaza would not experience an imminent reprieve and the families of hostages would have to wait longer for the freedom of their loved ones.",
+                    "copyright": "Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05mideast-crisis-talks-snag-2-wfzg/05mideast-crisis-talks-snag-2-wfzg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The failure to strike a deal meant Palestinians in Gaza would not experience an imminent reprieve and the families of hostages would have to wait longer for the freedom of their loved ones.",
+                    "copyright": "Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05mideast-crisis-talks-snag-2-wfzg/05mideast-crisis-talks-snag-2-wfzg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The failure to strike a deal meant Palestinians in Gaza would not experience an imminent reprieve and the families of hostages would have to wait longer for the freedom of their loved ones.",
+                    "copyright": "Agence France-Presse \u2014 Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Three Israeli Soldiers Killed in Rocket Attack Claimed by Hamas",
+            "abstract": "The Israeli military said that about 14 rockets and mortars were fired toward Kerem Shalom, a conduit for aid into Gaza. Three other soldiers were badly wounded.",
+            "url": "https://www.nytimes.com/2024/05/05/world/middleeast/hamas-rocket-kerem-shalom-israel.html",
+            "uri": "nyt://article/0299af4b-6bf3-5461-8b56-6c4e7cc5dc8e",
+            "byline": "By Liam Stack",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T17:59:54-04:00",
+            "created_date": "2024-05-05T10:05:11-04:00",
+            "published_date": "2024-05-05T10:05:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Humanitarian Aid",
+                "Israel-Gaza War (2023- )"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Rafah (Gaza Strip)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05mideast-crisis-gaza-rockets-hljq/05mideast-crisis-gaza-rockets-hljq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Israeli soldiers and medics by an ambulance in southern Israel near the border with Gaza on Sunday.",
+                    "copyright": "Amir Cohen/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05mideast-crisis-gaza-rockets-hljq/05mideast-crisis-gaza-rockets-hljq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Israeli soldiers and medics by an ambulance in southern Israel near the border with Gaza on Sunday.",
+                    "copyright": "Amir Cohen/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05mideast-crisis-gaza-rockets-hljq/05mideast-crisis-gaza-rockets-hljq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Israeli soldiers and medics by an ambulance in southern Israel near the border with Gaza on Sunday.",
+                    "copyright": "Amir Cohen/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Hundreds of Bahraini Political Prisoners Freed in \u2018Bittersweet\u2019 Royal Pardon",
+            "abstract": "Amid deepening tensions in the Middle East, Bahraini activists said that the mass pardon, while welcome, was incomplete, and called for the release of several jailed opposition leaders.",
+            "url": "https://www.nytimes.com/2024/05/05/world/middleeast/bahrain-political-prisoners-freed-pardon.html",
+            "uri": "nyt://article/6cc38047-747f-51f9-8f85-f98e36b2b992",
+            "byline": "By Nazeeha Saeed and Vivian Nereim",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T22:40:24-04:00",
+            "created_date": "2024-05-05T05:01:34-04:00",
+            "published_date": "2024-05-05T05:01:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Amnesties, Commutations and Pardons",
+                "Political Prisoners",
+                "Human Rights and Human Rights Violations",
+                "Middle East and North Africa Unrest (2010- )",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Bahrain Institute for Rights and Democracy"
+            ],
+            "per_facet": [
+                "Khalifa, Hamad Bin Isa al-"
+            ],
+            "geo_facet": [
+                "Bahrain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/01/multimedia/00Bahrain-Pardon-01-qgfm/00Bahrain-Pardon-01-qgfm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1360,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2011, more than 10,000 people streamed into Pearl Square in Bahrain\u2019s capital, Manama, for an antigovernment demonstration in what became the largest political protest in the Persian Gulf kingdom in recent memory.",
+                    "copyright": "Andrea Bruce for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/01/multimedia/00Bahrain-Pardon-01-qgfm/00Bahrain-Pardon-01-qgfm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2011, more than 10,000 people streamed into Pearl Square in Bahrain\u2019s capital, Manama, for an antigovernment demonstration in what became the largest political protest in the Persian Gulf kingdom in recent memory.",
+                    "copyright": "Andrea Bruce for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/01/multimedia/00Bahrain-Pardon-01-qgfm/00Bahrain-Pardon-01-qgfm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2011, more than 10,000 people streamed into Pearl Square in Bahrain\u2019s capital, Manama, for an antigovernment demonstration in what became the largest political protest in the Persian Gulf kingdom in recent memory.",
+                    "copyright": "Andrea Bruce for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "australia",
+            "title": "Teenager Fatally Shot by Australian Police After He Stabs a Man",
+            "abstract": "The episode occurred just weeks after two major stabbing attacks in the country. The youth had been under monitoring for having extremist tendencies.",
+            "url": "https://www.nytimes.com/2024/05/05/world/australia/perth-stabbing-teen-shot.html",
+            "uri": "nyt://article/08b769e4-2626-59a8-89cf-415670c48139",
+            "byline": "By Jin Yu Young",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T22:42:38-04:00",
+            "created_date": "2024-05-05T02:40:31-04:00",
+            "published_date": "2024-05-05T02:40:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Murders, Attempted Murders and Homicides",
+                "Assaults"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Albanese, Anthony (1963- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05oz-stabbing-gbqc/05oz-stabbing-gbqc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police Commissioner Col Blanch of Western Australia at a news conference in Perth on Sunday.",
+                    "copyright": "Australian Broadcasting Corporation, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05oz-stabbing-gbqc/05oz-stabbing-gbqc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police Commissioner Col Blanch of Western Australia at a news conference in Perth on Sunday.",
+                    "copyright": "Australian Broadcasting Corporation, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/05/multimedia/05oz-stabbing-gbqc/05oz-stabbing-gbqc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Police Commissioner Col Blanch of Western Australia at a news conference in Perth on Sunday.",
+                    "copyright": "Australian Broadcasting Corporation, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Charges Against a Congressman Lay Bare Foreign Government Influence Attempts",
+            "abstract": "Federal prosecutors say Representative Henry Cuellar tried to shape policy for Azerbaijan in exchange for bribes. The country has spent millions in the past decade lobbying Washington.",
+            "url": "https://www.nytimes.com/2024/05/04/us/politics/azerbaijan-cuellar-lobbying-armenia.html",
+            "uri": "nyt://article/75a6b57d-c8f0-5902-bc26-bdc47ffe65de",
+            "byline": "By Kenneth P. Vogel",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T22:46:02-04:00",
+            "created_date": "2024-05-04T17:32:48-04:00",
+            "published_date": "2024-05-04T17:32:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Bribery and Kickbacks",
+                "Lobbying and Lobbyists",
+                "United States Politics and Government",
+                "United States International Relations",
+                "Foreign Aid",
+                "Foreign Agents Registration Act",
+                "Ethics and Official Misconduct"
+            ],
+            "org_facet": [
+                "House of Representatives",
+                "Democratic Party",
+                "Senate"
+            ],
+            "per_facet": [
+                "Cuellar, Henry",
+                "Menendez, Robert"
+            ],
+            "geo_facet": [
+                "Armenia",
+                "Azerbaijan",
+                "Egypt",
+                "Qatar"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04dc-azerbaijan1-bfwq/04dc-azerbaijan1-bfwq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Henry Cuellar, Democrat of Texas, is charged with accepting bribes and acting as a foreign agent in a yearslong scheme.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04dc-azerbaijan1-bfwq/04dc-azerbaijan1-bfwq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Henry Cuellar, Democrat of Texas, is charged with accepting bribes and acting as a foreign agent in a yearslong scheme.",
+                    "copyright": "Kenny Holston/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04dc-azerbaijan1-bfwq/04dc-azerbaijan1-bfwq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Henry Cuellar, Democrat of Texas, is charged with accepting bribes and acting as a foreign agent in a yearslong scheme.",
+                    "copyright": "Kenny Holston/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Parts of Gaza in \u2018Full-Blown Famine,\u2019 U.N. Aid Official Says",
+            "abstract": "Cindy McCain, the director of the World Food Program, said starvation is entrenched in northern Gaza and is \u201cmoving its way south.\u201d",
+            "url": "https://www.nytimes.com/2024/05/04/world/middleeast/gaza-famine-mccain-israel.html",
+            "uri": "nyt://article/d3385e44-2585-501b-9334-9133480ad506",
+            "byline": "By Liam Stack, Aaron Boxerman, Amanda Taub and Ken Belson",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T12:55:18-04:00",
+            "created_date": "2024-05-04T17:07:43-04:00",
+            "published_date": "2024-05-04T17:07:43-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Humanitarian Aid",
+                "Famine",
+                "War Crimes, Genocide and Crimes Against Humanity",
+                "Terrorism",
+                "Defense and Military Forces"
+            ],
+            "org_facet": [
+                "World Food Program",
+                "United Nations",
+                "Hamas"
+            ],
+            "per_facet": [
+                "McCain, Cindy",
+                "Netanyahu, Benjamin"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04mideast-ledeall-swap-bkcl/04mideast-ledeall-swap-bkcl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinian children waiting for food in Rafah, southern Gaza Strip, in March. As of mid-April, at least 28 children under 12 had died of malnutrition or related causes in Gaza hospitals.",
+                    "copyright": "Haitham Imad/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04mideast-ledeall-swap-bkcl/04mideast-ledeall-swap-bkcl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinian children waiting for food in Rafah, southern Gaza Strip, in March. As of mid-April, at least 28 children under 12 had died of malnutrition or related causes in Gaza hospitals.",
+                    "copyright": "Haitham Imad/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04mideast-ledeall-swap-bkcl/04mideast-ledeall-swap-bkcl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinian children waiting for food in Rafah, southern Gaza Strip, in March. As of mid-April, at least 28 children under 12 had died of malnutrition or related causes in Gaza hospitals.",
+                    "copyright": "Haitham Imad/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Canadian Arrests Highlight Alleged Gang Role in India\u2019s Intelligence Operations",
+            "abstract": "India\u2019s external spy agency, the Research and Analysis Wing, has long been accused of tapping into criminal networks to carry out operations in South Asia. Is the agency now doing similar operations in the West?",
+            "url": "https://www.nytimes.com/2024/05/04/world/asia/canada-india-sikh-arrests-gangs.html",
+            "uri": "nyt://article/9d38f20f-68c6-5db6-8f39-5c82bf84dd28",
+            "byline": "By Mujib Mashal and Suhasini Raj",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T20:27:38-04:00",
+            "created_date": "2024-05-04T16:41:18-04:00",
+            "published_date": "2024-05-04T16:41:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Sikhs and Sikhism",
+                "International Relations",
+                "Espionage and Intelligence Services",
+                "Organized Crime"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Modi, Narendra",
+                "Nijjar, Hardeep Singh (1977-2023)",
+                "Trudeau, Justin"
+            ],
+            "geo_facet": [
+                "Canada",
+                "India",
+                "Punjab (India)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04india-canada-1-kqfp/04india-canada-1-kqfp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People gathered at the Sikh temple in Surrey, British Columbia, yesterday, the site of the 2023 murder of a Sikh nationalist leader, Hardeep Singh Nijjar.",
+                    "copyright": "Jennifer Gauthier/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04india-canada-1-kqfp/04india-canada-1-kqfp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People gathered at the Sikh temple in Surrey, British Columbia, yesterday, the site of the 2023 murder of a Sikh nationalist leader, Hardeep Singh Nijjar.",
+                    "copyright": "Jennifer Gauthier/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04india-canada-1-kqfp/04india-canada-1-kqfp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "People gathered at the Sikh temple in Surrey, British Columbia, yesterday, the site of the 2023 murder of a Sikh nationalist leader, Hardeep Singh Nijjar.",
+                    "copyright": "Jennifer Gauthier/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Lawsuit Accuses Everton Bidder 777 Partners of $600 Million Fraud",
+            "abstract": "In a suit filed in federal court in New York, a firm that provided hundreds of millions of dollars to 777 accused the company of double-pledging its collateral to other investors.",
+            "url": "https://www.nytimes.com/2024/05/04/world/europe/everton-777-partners-lawsuit.html",
+            "uri": "nyt://article/7f109baf-514c-5563-b216-0b98005e70d9",
+            "byline": "By Tariq Panja",
+            "item_type": "Article",
+            "updated_date": "2024-05-04T13:30:48-04:00",
+            "created_date": "2024-05-04T11:10:47-04:00",
+            "published_date": "2024-05-04T11:10:47-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Soccer",
+                "Suits and Litigation (Civil)"
+            ],
+            "org_facet": [
+                "777 Partners",
+                "Everton (Soccer Team)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04soccer-lawsuit-1-kjpb/04soccer-lawsuit-1-kjpb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1454,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Everton, the financially strapped English Premier League soccer team, recently said it was seeking alternate investors.",
+                    "copyright": "Adam Vaughan/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04soccer-lawsuit-1-kjpb/04soccer-lawsuit-1-kjpb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Everton, the financially strapped English Premier League soccer team, recently said it was seeking alternate investors.",
+                    "copyright": "Adam Vaughan/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04soccer-lawsuit-1-kjpb/04soccer-lawsuit-1-kjpb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Everton, the financially strapped English Premier League soccer team, recently said it was seeking alternate investors.",
+                    "copyright": "Adam Vaughan/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Sadiq Khan Re-elected Mayor of London in Latest Win for Labour Party",
+            "abstract": "Mr. Khan defeated a right-wing rival who focused on crime and cars, his victory another ominous sign for Britain\u2019s ruling Conservatives ahead of a general election.",
+            "url": "https://www.nytimes.com/2024/05/04/world/europe/sadiq-khan-london-mayor-results.html",
+            "uri": "nyt://article/c2378f15-182a-5ece-8af3-1e179f2e42a4",
+            "byline": "By Stephen Castle",
+            "item_type": "Article",
+            "updated_date": "2024-05-04T23:23:57-04:00",
+            "created_date": "2024-05-04T10:14:59-04:00",
+            "published_date": "2024-05-04T10:14:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Polls and Public Opinion",
+                "Elections, Mayors",
+                "Politics and Government",
+                "Local Government",
+                "Elections",
+                "Muslims and Islam"
+            ],
+            "org_facet": [
+                "Conservative Party (Great Britain)",
+                "Labour Party (Great Britain)"
+            ],
+            "per_facet": [
+                "Khan, Sadiq"
+            ],
+            "geo_facet": [
+                "Great Britain",
+                "London (England)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/10/multimedia/HFO-04-londonmayor-mcjl/HFO-04-londonmayor-mcjl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mayor Sadiq Khan of London and his supporters in the British capital on Wednesday.",
+                    "copyright": "Chris J Ratcliffe/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/10/multimedia/HFO-04-londonmayor-mcjl/HFO-04-londonmayor-mcjl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mayor Sadiq Khan of London and his supporters in the British capital on Wednesday.",
+                    "copyright": "Chris J Ratcliffe/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/10/multimedia/HFO-04-londonmayor-mcjl/HFO-04-londonmayor-mcjl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mayor Sadiq Khan of London and his supporters in the British capital on Wednesday.",
+                    "copyright": "Chris J Ratcliffe/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Parts of Gaza Are in Famine, World Food Program Chief Says",
+            "abstract": "The remarks by Cindy McCain do not constitute an official declaration of famine, but she said the assessment was based on \u201cwhat we have seen\u201d on the ground.",
+            "url": "https://www.nytimes.com/2024/05/04/world/middleeast/cindy-mccain-gaza-famine.html",
+            "uri": "nyt://article/d65158aa-9f73-5e1b-bb8a-a87ceef0a0bc",
+            "byline": "By Liam Stack",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T08:25:20-04:00",
+            "created_date": "2024-05-04T07:38:09-04:00",
+            "published_date": "2024-05-04T07:38:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Famine",
+                "Israel-Gaza War (2023- )"
+            ],
+            "org_facet": [
+                "World Food Program"
+            ],
+            "per_facet": [
+                "McCain, Cindy"
+            ],
+            "geo_facet": [
+                "Gaza Strip",
+                "Israel"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04mideast-crisis-hunger-mcfp/04mideast-crisis-hunger-mcfp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians gathering to receive meals cooked by the World Central Kitchen at a school sheltering displaced people in the central Gaza Strip on Wednesday.",
+                    "copyright": "Ramadan Abed/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04mideast-crisis-hunger-mcfp/04mideast-crisis-hunger-mcfp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians gathering to receive meals cooked by the World Central Kitchen at a school sheltering displaced people in the central Gaza Strip on Wednesday.",
+                    "copyright": "Ramadan Abed/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04mideast-crisis-hunger-mcfp/04mideast-crisis-hunger-mcfp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians gathering to receive meals cooked by the World Central Kitchen at a school sheltering displaced people in the central Gaza Strip on Wednesday.",
+                    "copyright": "Ramadan Abed/Reuters"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "briefing",
+            "subsection": "",
+            "title": "Moving Target",
+            "abstract": "A recent study offers some suggestions on the best time of day to exercise. But optimizing a routine requires having a routine to begin with.",
+            "url": "https://www.nytimes.com/2024/05/04/briefing/moving-target.html",
+            "uri": "nyt://article/90dae962-637a-5417-b722-b8043661dae1",
+            "byline": "By Melissa Kirsch",
+            "item_type": "Article",
+            "updated_date": "2024-05-04T06:21:07-04:00",
+            "created_date": "2024-05-04T06:21:07-04:00",
+            "published_date": "2024-05-04T06:21:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "internal-storyline-no",
+                "Exercise",
+                "Habits and Routines (Behavior)",
+                "Running"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04hemorning-ambriefing-web/04hemorning-nl-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mar\u00eda Jes\u00fas Contreras"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04hemorning-ambriefing-web/04hemorning-nl-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mar\u00eda Jes\u00fas Contreras"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04hemorning-ambriefing-web/04hemorning-nl-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mar\u00eda Jes\u00fas Contreras"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "canada",
+            "title": "Lessons From the Front Lines of Canada\u2019s Fentanyl Crisis",
+            "abstract": "In a visit supported by the U.S. government, a group of Mexican experts came to British Columbia to discuss ways of responding to rampant opioid deaths.",
+            "url": "https://www.nytimes.com/2024/05/04/world/canada/vancouver-fentanyl-opioid-crisis.html",
+            "uri": "nyt://article/2ce12f2c-06da-56ec-838b-e4fd5d4a51f5",
+            "byline": "By Vjosa Isai",
+            "item_type": "Article",
+            "updated_date": "2024-05-04T06:00:02-04:00",
+            "created_date": "2024-05-04T06:00:02-04:00",
+            "published_date": "2024-05-04T06:00:02-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drug Abuse and Traffic",
+                "Opioids and Opiates",
+                "Fentanyl",
+                "Forensic Science"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "British Columbia (Canada)",
+                "Canada",
+                "Mexico"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/26/science/03canadaletter1/03canadaletter1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1638,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A nurse at the Crosstown Clinic, a supervised injection site in Vancouver, British Columbia, handed out a syringe of medical-grade heroin to a patient.",
+                    "copyright": "Jackie Dives for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/26/science/03canadaletter1/00opioids-vancouver1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A nurse at the Crosstown Clinic, a supervised injection site in Vancouver, British Columbia, handed out a syringe of medical-grade heroin to a patient.",
+                    "copyright": "Jackie Dives for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/07/26/science/03canadaletter1/00opioids-vancouver1-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A nurse at the Crosstown Clinic, a supervised injection site in Vancouver, British Columbia, handed out a syringe of medical-grade heroin to a patient.",
+                    "copyright": "Jackie Dives for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "africa",
+            "title": "The Bleak Life of a Deposed President and His Wife, Held Captive",
+            "abstract": "Nine months after a coup in Niger, Mohamed Bazoum, an ally of France and the U.S., remains locked in the presidential residence, cut off from contact with anyone but his doctor.",
+            "url": "https://www.nytimes.com/2024/05/04/world/africa/niger-bazoum-captivity.html",
+            "uri": "nyt://article/1d72cbca-622b-5cd7-8153-d8e27af1c606",
+            "byline": "By Elian Peltier",
+            "item_type": "Article",
+            "updated_date": "2024-05-04T23:18:19-04:00",
+            "created_date": "2024-05-04T05:01:11-04:00",
+            "published_date": "2024-05-04T05:01:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coups D'Etat and Attempted Coups D'Etat",
+                "Political Prisoners"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Bazoum, Mohamed (1960- )"
+            ],
+            "geo_facet": [
+                "Niger",
+                "Russia",
+                "Sahel (Africa)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04niger-president-01-pwmv/04niger-president-01-pwmv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Mohamed Bazoum of Niger in 2022. For the past nine months, he has been held captive in an isolated wing of his house.",
+                    "copyright": "Bertrand Guay/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04niger-president-01-pwmv/04niger-president-01-pwmv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Mohamed Bazoum of Niger in 2022. For the past nine months, he has been held captive in an isolated wing of his house.",
+                    "copyright": "Bertrand Guay/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04niger-president-01-pwmv/04niger-president-01-pwmv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Mohamed Bazoum of Niger in 2022. For the past nine months, he has been held captive in an isolated wing of his house.",
+                    "copyright": "Bertrand Guay/Agence France-Presse \u2014 Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Family Values or Fighting Valor? Russia Grapples With Women\u2019s Wartime Role.",
+            "abstract": "Russian military efforts to recruit women from prisons and civilian life have clashed with President Vladimir V. Putin\u2019s conservative agenda.",
+            "url": "https://www.nytimes.com/2024/05/04/world/europe/russia-soldiers-women.html",
+            "uri": "nyt://article/3c195203-ffe8-5855-8b4b-c60793dc07ae",
+            "byline": "By Anatoly Kurmanaev and Ekaterina Bodyagina",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T13:02:51-04:00",
+            "created_date": "2024-05-04T04:10:58-04:00",
+            "published_date": "2024-05-04T04:10:58-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)",
+                "Defense and Military Forces",
+                "Draft and Recruitment (Military)",
+                "Women and Girls",
+                "Ex-Convicts"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Putin, Vladimir V"
+            ],
+            "geo_facet": [
+                "Russia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/25/multimedia/00russia-women-soldiers-promo-1-ftwz/00russia-women-soldiers-promo-1-ftwz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 853,
+                    "width": 1280,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/25/multimedia/00russia-women-soldiers-promo-1-ftwz/00russia-women-soldiers-promo-1-ftwz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/04/25/multimedia/00russia-women-soldiers-promo-1-ftwz/00russia-women-soldiers-promo-1-ftwz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Was the Stone Age Actually the Wood Age?",
+            "abstract": "Neanderthals were even better craftsmen than thought, a new analysis of 300,000-year-old wooden tools has revealed.",
+            "url": "https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html",
+            "uri": "nyt://article/da6c92fc-18bb-5941-bcfc-df6acbd15ae3",
+            "byline": "By Franz Lidz",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T15:02:47-04:00",
+            "created_date": "2024-05-04T03:00:46-04:00",
+            "published_date": "2024-05-04T03:00:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Archaeology and Anthropology",
+                "Neanderthal Man",
+                "Tools",
+                "Wood and Wood Products",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "Proceedings of the National Academy of Sciences"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Germany"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/07/multimedia/00SCI-NEANDERTHALS-01-qvbp/00SCI-NEANDERTHALS-01-qvbp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Spears and throwing sticks dating from about 300,000 years ago. They were among the many wooden objects excavated between 1994 and 2008 from an open-pit coal mine in northern Germany.",
+                    "copyright": "Nieders\u00e4chsisches Landesamt f\u00fcr Denkmalpflege"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/07/multimedia/00SCI-NEANDERTHALS-01-qvbp/00SCI-NEANDERTHALS-01-qvbp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Spears and throwing sticks dating from about 300,000 years ago. They were among the many wooden objects excavated between 1994 and 2008 from an open-pit coal mine in northern Germany.",
+                    "copyright": "Nieders\u00e4chsisches Landesamt f\u00fcr Denkmalpflege"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/07/multimedia/00SCI-NEANDERTHALS-01-qvbp/00SCI-NEANDERTHALS-01-qvbp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Spears and throwing sticks dating from about 300,000 years ago. They were among the many wooden objects excavated between 1994 and 2008 from an open-pit coal mine in northern Germany.",
+                    "copyright": "Nieders\u00e4chsisches Landesamt f\u00fcr Denkmalpflege"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Drones Changed This Civil War, and Linked Rebels to the World",
+            "abstract": "Consumer technologies are altering the course of the battle in Myanmar, and rebel drone units are taking notes on Ukraine and other conflicts.",
+            "url": "https://www.nytimes.com/2024/05/04/world/asia/myanmar-war-drones.html",
+            "uri": "nyt://article/0a6653dd-cfe1-596a-8124-4cd3a66b48ba",
+            "byline": "By Hannah Beech, Paul Mozur and Adam Ferguson",
+            "item_type": "Article",
+            "updated_date": "2024-05-04T23:17:46-04:00",
+            "created_date": "2024-05-04T00:01:20-04:00",
+            "published_date": "2024-05-04T00:01:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drones (Pilotless Planes)",
+                "Defense and Military Forces",
+                "Russian Invasion of Ukraine (2022)",
+                "3-D Printers",
+                "Pilots",
+                "Coups D'Etat and Attempted Coups D'Etat",
+                "Innovation",
+                "Bombs and Explosives",
+                "Military Aircraft"
+            ],
+            "org_facet": [
+                "Karenni Nationalities Defense Force",
+                "SZ DJI Technology Co Ltd"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Myanmar"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04myanmar-drone-01-vjlp-promo/04myanmar-drone-01-vjlp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of a Karenni Nationalities Defense Force drone team, including the commander, 3D, at far left, and the pilot, Ko Shan Gyi, working the controls, as they test a drone at a K.N.D.F. base in Karenni State, Myanmar, in February.",
+                    "copyright": "Adam Ferguson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04myanmar-drone-01-vjlp-promo/04myanmar-drone-01-vjlp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of a Karenni Nationalities Defense Force drone team, including the commander, 3D, at far left, and the pilot, Ko Shan Gyi, working the controls, as they test a drone at a K.N.D.F. base in Karenni State, Myanmar, in February.",
+                    "copyright": "Adam Ferguson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/04/multimedia/04myanmar-drone-01-vjlp-promo/04myanmar-drone-01-vjlp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Members of a Karenni Nationalities Defense Force drone team, including the commander, 3D, at far left, and the pilot, Ko Shan Gyi, working the controls, as they test a drone at a K.N.D.F. base in Karenni State, Myanmar, in February.",
+                    "copyright": "Adam Ferguson for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "Israel, Gaza and the Law on Starvation in War",
+            "abstract": "A complex legal question became more pressing after a statement from the U.N. human rights chief.",
+            "url": "https://www.nytimes.com/2024/05/04/world/middleeast/israel-gaza-starvation-icc.html",
+            "uri": "nyt://article/9e0d2a37-9ecb-5bba-a34e-b44e1c53a209",
+            "byline": "By Amanda Taub",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T13:28:17-04:00",
+            "created_date": "2024-05-04T00:01:02-04:00",
+            "published_date": "2024-05-04T00:01:02-04:00",
+            "material_type_facet": "",
+            "kicker": "The Interpreter",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Defense and Military Forces",
+                "Palestinians",
+                "Civilian Casualties",
+                "Famine",
+                "Deaths (Fatalities)",
+                "Humanitarian Aid",
+                "Law and Legislation",
+                "Human Rights and Human Rights Violations",
+                "Foreign Aid",
+                "Terrorism",
+                "War Crimes, Genocide and Crimes Against Humanity"
+            ],
+            "org_facet": [
+                "Hamas",
+                "International Criminal Court",
+                "United Nations"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Israel",
+                "Gaza Strip"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/02/multimedia/02InterpreterNL-starvation-1-bgvz/02InterpreterNL-starvation-1-bgvz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians lining up to collect food in Rafah in December. As of mid-April, at least 28 children had died of malnutrition in Gaza hospitals, according to local health authorities.",
+                    "copyright": "Fatima Shbair/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/02/multimedia/02InterpreterNL-starvation-1-bgvz/02InterpreterNL-starvation-1-bgvz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians lining up to collect food in Rafah in December. As of mid-April, at least 28 children had died of malnutrition in Gaza hospitals, according to local health authorities.",
+                    "copyright": "Fatima Shbair/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/02/multimedia/02InterpreterNL-starvation-1-bgvz/02InterpreterNL-starvation-1-bgvz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Palestinians lining up to collect food in Rafah in December. As of mid-April, at least 28 children had died of malnutrition in Gaza hospitals, according to local health authorities.",
+                    "copyright": "Fatima Shbair/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "americas",
+            "title": "After 3 Tourists Go Missing, Bodies Are Found in Baja California",
+            "abstract": "Mexican authorities recovered the three bodies as a search went on for two Australian tourists and a U.S. citizen who disappeared while on vacation.",
+            "url": "https://www.nytimes.com/2024/05/03/world/americas/mexico-missing-surfers.html",
+            "uri": "nyt://article/654379d0-7004-5bad-bd66-1323fb71a280",
+            "byline": "By Emiliano Rodr\u00edguez Mega",
+            "item_type": "Article",
+            "updated_date": "2024-05-05T13:38:48-04:00",
+            "created_date": "2024-05-03T21:59:12-04:00",
+            "published_date": "2024-05-03T21:59:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Murders, Attempted Murders and Homicides",
+                "Travel and Vacations"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Baja California (Mexico)",
+                "Ensenada (Mexico)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/03/multimedia/00mexico-HFO-qljt/00mexico-HFO-qljt-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue and forensic workers and prosecutors near La Bocana beach in Baja California, Mexico, on Friday.",
+                    "copyright": "Guillermo Arias/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/03/multimedia/00mexico-HFO-qljt/00mexico-HFO-qljt-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue and forensic workers and prosecutors near La Bocana beach in Baja California, Mexico, on Friday.",
+                    "copyright": "Guillermo Arias/Agence France-Presse \u2014 Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/03/multimedia/00mexico-HFO-qljt/00mexico-HFO-qljt-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Rescue and forensic workers and prosecutors near La Bocana beach in Baja California, Mexico, on Friday.",
+                    "copyright": "Guillermo Arias/Agence France-Presse \u2014 Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Cheers, Fears and \u2018Le Wokisme\u2019: How the World Sees U.S. Campus Protests",
+            "abstract": "Abroad, some have praised the demonstrations. Others call the crackdowns evidence of American hypocrisy, or of a nation coming apart.",
+            "url": "https://www.nytimes.com/2024/05/03/world/europe/campus-protests-rorschach-test.html",
+            "uri": "nyt://article/182bda75-2e80-5263-9b67-1fa1fd1e6006",
+            "byline": "By Catherine Porter",
+            "item_type": "Article",
+            "updated_date": "2024-05-04T23:23:00-04:00",
+            "created_date": "2024-05-03T18:06:57-04:00",
+            "published_date": "2024-05-03T18:06:57-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Colleges and Universities",
+                "Demonstrations, Protests and Riots",
+                "Israel-Gaza War (2023- )",
+                "Palestinians",
+                "Politics and Government",
+                "International Relations",
+                "Freedom of Speech and Expression",
+                "Human Rights and Human Rights Violations",
+                "Police",
+                "War Crimes, Genocide and Crimes Against Humanity",
+                "Anti-Semitism",
+                "Jews and Judaism",
+                "Police Brutality, Misconduct and Shootings",
+                "internal-truncator"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Amir Abdollahian, Hossein",
+                "Attal, Gabriel",
+                "Kepel, Gilles",
+                "Petro, Gustavo"
+            ],
+            "geo_facet": [
+                "Bogota (Colombia)",
+                "Berlin (Germany)",
+                "Cairo (Egypt)",
+                "Egypt",
+                "France",
+                "Gaza Strip",
+                "Germany",
+                "Iran",
+                "China",
+                "Israel",
+                "Tehran (Iran)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/03/multimedia/03global-protests-1-vcfm/03global-protests-1-vcfm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters clashed with California Highway Patrol officers at the University of California, Los Angeles, on Wednesday.",
+                    "copyright": "Philip Cheung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/03/multimedia/03global-protests-1-vcfm/03global-protests-1-vcfm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters clashed with California Highway Patrol officers at the University of California, Los Angeles, on Wednesday.",
+                    "copyright": "Philip Cheung for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/03/multimedia/03global-protests-1-vcfm/03global-protests-1-vcfm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Protesters clashed with California Highway Patrol officers at the University of California, Los Angeles, on Wednesday.",
+                    "copyright": "Philip Cheung for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "world",
+            "subsection": "middleeast",
+            "title": "As Turkey Cuts Trade Ties, Israel\u2019s Isolation Grows",
+            "abstract": "Turkey said it would not resume trade with Israel until a \u201cpermanent cease-fire\u201d in Gaza. The move came after a number of countries cut diplomatic ties with Israel.",
+            "url": "https://www.nytimes.com/2024/05/03/world/middleeast/turkey-israel-gaza-cease-fire.html",
+            "uri": "nyt://article/e380237f-f25c-58a5-89d8-a1eb180345f4",
+            "byline": "By Gulsin Harman, Aaron Boxerman, Ben Hubbard and Thomas Fuller",
+            "item_type": "Article",
+            "updated_date": "2024-05-04T13:14:53-04:00",
+            "created_date": "2024-05-03T17:50:51-04:00",
+            "published_date": "2024-05-03T17:50:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "International Relations",
+                "Defense and Military Forces",
+                "Palestinians",
+                "Civilian Casualties",
+                "Refugees and Displaced Persons",
+                "Humanitarian Aid",
+                "Terrorism"
+            ],
+            "org_facet": [
+                "Hamas"
+            ],
+            "per_facet": [
+                "Erdogan, Recep Tayyip"
+            ],
+            "geo_facet": [
+                "Israel",
+                "Turkey",
+                "Gaza Strip",
+                "Rafah (Gaza Strip)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/03/multimedia/03mideast-crisis-ledeall-01-wlvm/03mideast-crisis-ledeall-01-wlvm-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A protest in solidarity with Palestinians on Friday at Beyazit Square in Istanbul. Turkey said it would suspend trade with Israel until a \u201cpermanent cease-fire\u201d in the Gaza Strip.",
+                    "copyright": "Dilara Senkaya/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/03/multimedia/03mideast-crisis-ledeall-01-wlvm/03mideast-crisis-ledeall-01-wlvm-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A protest in solidarity with Palestinians on Friday at Beyazit Square in Istanbul. Turkey said it would suspend trade with Israel until a \u201cpermanent cease-fire\u201d in the Gaza Strip.",
+                    "copyright": "Dilara Senkaya/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/05/03/multimedia/03mideast-crisis-ledeall-01-wlvm/03mideast-crisis-ledeall-01-wlvm-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A protest in solidarity with Palestinians on Friday at Beyazit Square in Istanbul. Turkey said it would suspend trade with Israel until a \u201cpermanent cease-fire\u201d in the Gaza Strip.",
+                    "copyright": "Dilara Senkaya/Reuters"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}
